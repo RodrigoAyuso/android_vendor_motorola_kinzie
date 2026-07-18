@@ -148,7 +148,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/kinzie/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/motorola/kinzie/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/motorola/kinzie/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
-    vendor/motorola/kinzie/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
     vendor/motorola/kinzie/proprietary/lib/hw/sensors.msm8994.so:system/lib/hw/sensors.msm8994.so \
     vendor/motorola/kinzie/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
     vendor/motorola/kinzie/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
@@ -162,9 +161,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/kinzie/proprietary/lib/libjustshoot.so:system/lib/libjustshoot.so \
     vendor/motorola/kinzie/proprietary/lib/libmbs.so:system/lib/libmbs.so \
     vendor/motorola/kinzie/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
-    vendor/motorola/kinzie/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/motorola/kinzie/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/motorola/kinzie/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/motorola/kinzie/proprietary/lib/libmot-qc-fd-offline.so:system/lib/libmot-qc-fd-offline.so \
     vendor/motorola/kinzie/proprietary/lib/libmot_lux_standardization.so:system/lib/libmot_lux_standardization.so \
     vendor/motorola/kinzie/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so \
@@ -172,7 +168,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/kinzie/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/kinzie/proprietary/lib/libqcomfm_jni.so:system/lib/libqcomfm_jni.so \
     vendor/motorola/kinzie/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
-    vendor/motorola/kinzie/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/motorola/kinzie/proprietary/lib/libunshorten.so:system/lib/libunshorten.so \
     vendor/motorola/kinzie/proprietary/lib/soundfx/libmmieffectswrapper.so:system/lib/soundfx/libmmieffectswrapper.so \
     vendor/motorola/kinzie/proprietary/lib64/hw/sensorhub.msm8994.so:system/lib64/hw/sensorhub.msm8994.so \
